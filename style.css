@@ -1,0 +1,41 @@
+
+main {
+    width: 500px;
+    margin: 0 auto;
+}
+
+h1{
+    padding-top: 48px;
+    margin: 12px 0;
+}
+
+h3{
+    color: gray;
+    font-size: 16px;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+
+}
+
+p{
+    text-align: justify;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding: 48px 0;
+}
+
+h4{
+    font-style: italic;
+    text-decoration: underline;
+    color: darkgray;
+}
+
+ul{
+    font-family: "Roboto", sans-serif;
+    list-style: none;
+    font-size: 14px;
+    padding-left: 0;
+}
